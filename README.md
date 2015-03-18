@@ -13,4 +13,4 @@ Using "Photoresist" etching method
   Running but a bit faulty
   Needs update
   
---This code is going to be connected to a specified instructable on instructables.com--
+--Find the rest of my project and how to make it on http://www.instructables.com/id/Ultraviolet-Exposure-Box/--
